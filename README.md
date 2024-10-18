@@ -52,9 +52,9 @@ To encrypt a string, use the `-e` option followed by the string you want to encr
 
 ```sh
 python3 ./string-encryption.py -e "Your secret message"
-
+'''
+'''sh
 ### Decryption a String
 To decrypt a string, use the '-d' option followed by the string you want to decrypt:
 
-'''sh
 python3 ./string-encryption.py -d "Your encrypted string"
