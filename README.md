@@ -29,7 +29,7 @@ This project provides a Python-based solution for encrypting and decrypting stri
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/string-encryption.git
+    git clone https://github.com/rawrmonster17/string-encryption.git
     cd string-encryption
     ```
 
